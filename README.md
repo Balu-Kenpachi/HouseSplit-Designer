@@ -22,7 +22,11 @@ Analysis based on local real estate market trends and rental rates.
 # Technical Stack:
 
 Frontend: React for interactive UI.
+
 Backend: Python with Flask or Django for server-side processing.
+
 Database: PostgreSQL or MongoDB for storing user data and designs.
+
 APIs: Integration with real estate market data APIs for cost and revenue projections.
+
 AI/ML: Use of machine learning algorithms for optimizing space utilization and design efficiency.
